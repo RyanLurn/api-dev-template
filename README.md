@@ -8,3 +8,4 @@
 - [x] Push to GitHub
 - [x] Add tseslint
 - [x] Add prettier
+- [x] Add database with Drizzle
