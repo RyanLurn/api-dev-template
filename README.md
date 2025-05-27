@@ -5,4 +5,4 @@
 ### Project setup
 
 - [x] Create project with Hono and Bun
-- [ ] Push to GitHub
+- [x] Push to GitHub
